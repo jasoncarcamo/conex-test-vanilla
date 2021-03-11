@@ -1,3 +1,5 @@
+
+// Inserts rows into table in index.html
 function renderTableData(){
     const tableBody = document.getElementById("first-section-tb");
 
